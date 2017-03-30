@@ -1,0 +1,16 @@
+sphere
+0 0 0 100
+torus
+0 0 0 5 150
+torus
+0 0 0 10 150
+ident
+rotate
+x 20
+move
+250 250 0
+apply
+display
+save
+img.png
+quit
